@@ -1,1 +1,4 @@
-print('Hello World')
+def hw():
+    print('Hello World')
+
+hw()
